@@ -1,4 +1,3 @@
-```markdown
 # 🔥 GROUP 1 - Cube Maze Adventure PRO
 
 Welcome to **Cube Maze Adventure PRO**, a thrilling 3D first-person maze exploration game developed using the Ursina Engine in Python! This README provides a comprehensive overview of the game, its features, how to install and run it, and the team behind its creation.
@@ -15,21 +14,21 @@ Welcome to **Cube Maze Adventure PRO**, a thrilling 3D first-person maze explora
 
 ## 🔹 Core Features
 
-* ✨ **Procedurally Generated 3D Mazes**: Experience unique challenges with each playthrough thanks to mazes generated dynamically using a recursive backtracking algorithm. The terrain features distinct wall heights and path levels.
-* 🎮 **First-Person Player Controller**: Enjoy seamless movement and exploration with a responsive first-person camera, walking, and jumping mechanics.
-* ❤️ **Dynamic Health System**: Monitor your health bar as you take damage from monster attacks, featuring a temporary invulnerability period to allow for tactical retreats.
-* 👾 **Intelligent AI Monster**: Encounter a formidable opponent with varied behaviors:
+* **Procedurally Generated 3D Mazes**: Experience unique challenges with each playthrough thanks to mazes generated dynamically using a recursive backtracking algorithm. The terrain features distinct wall heights and path levels.
+* **First-Person Player Controller**: Enjoy seamless movement and exploration with a responsive first-person camera, walking, and jumping mechanics.
+* **Dynamic Health System**: Monitor your health bar as you take damage from monster attacks, featuring a temporary invulnerability period to allow for tactical retreats.
+* **Intelligent AI Monster**: Encounter a formidable opponent with varied behaviors:
     * **Patrol**: The monster intelligently patrols predefined paths (linear or sine wave) when no threat is perceived.
     * **Chase**: Detects the player within a specified vision range and actively pursues them.
     * **Projectile Attack**: Initiates a ranged attack by firing projectiles after a brief wind-up, complete with attack cooldowns.
-* 🏁 **Clear Goal Objective**: Your ultimate aim is to locate and reach the vibrant orange goal entity hidden within the maze to win the game.
-* 🕹️ **Comprehensive Game States**: The game seamlessly transitions between:
+* **Clear Goal Objective**: Your ultimate aim is to locate and reach the vibrant orange goal entity hidden within the maze to win the game.
+* **Comprehensive Game States**: The game seamlessly transitions between:
     * **Main Menu**: Start a new game or exit the application.
     * **Playing**: Active gameplay, allowing for player movement and monster interaction.
     * **Paused**: Temporarily halts the game, offering options to resume or return to the main menu.
     * **Win/Lose Screens**: Displays appropriate messages and options to restart or go back to the main menu upon game completion.
-* 🎨 **Intuitive UI Management**: A clean and functional user interface for menus, health display, and game-over feedback.
-* ⚙️ **Highly Configurable**: Easily adjust game parameters such as player speed, monster AI, maze dimensions, and entity colors through a centralized configuration class.
+* **Intuitive UI Management**: A clean and functional user interface for menus, health display, and game-over feedback.
+* **Highly Configurable**: Easily adjust game parameters such as player speed, monster AI, maze dimensions, and entity colors through a centralized configuration class.
 
 ---
 
@@ -134,4 +133,3 @@ This project is for educational use and not intended for commercial distribution
 Run `python gogogo.py` and embark on your cube maze adventure!
 
 > "Every twist and turn holds a new challenge. Can you conquer the maze?"
-```
