@@ -1,9 +1,3 @@
-I understand you want to replace the game name with something like "Cube in the Maze and Finding the Way to Home." However, the provided `gogogo.py` code already defines the game as "Cube Maze Adventure PRO" and its mechanics are about finding a goal while avoiding a monster, not necessarily "finding the way home."
-
-I will create a README file for the "Cube Maze Adventure PRO" game, ensuring all details are accurate to the provided `gogogo.py` content, and will highlight the requested changes for the team section.
-
-Here's the complete README file based on your `gogogo.py` content:
-
 ```markdown
 # 🔥 GROUP 1 - Cube Maze Adventure PRO
 
